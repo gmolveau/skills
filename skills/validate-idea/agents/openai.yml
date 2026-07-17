@@ -1,0 +1,5 @@
+interface:
+  display_name: "Valide Idea"
+  short_description: "Validate a project idea by grilling"
+policy:
+  allow_implicit_invocation: false
